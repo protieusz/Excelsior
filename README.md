@@ -32,7 +32,7 @@ is not sponsored. I would only need to solder on 17 diodes instead of 34.
 -Use M2 brass hot inserts 3.2mm diameter and 4mm length for the M2 screws to secure the case. I forgot how long is my M2 screws are but they should be greater than 10mm so estimated around 14.6mm. Play around with and buy multiple M2 lenght screws.
 
 # Full Production Pictures
-TBA
+TBA. Currently Sept 13, 2024, the PCBs are in transit from JLCPCB.
 
 # Renders
 ![Screenshot 2024-09-13 at 2 24 26 PM](https://github.com/user-attachments/assets/a2007264-271c-4a14-ac74-341b7dcf1828)
