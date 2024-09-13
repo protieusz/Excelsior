@@ -1,5 +1,5 @@
 # Excelsior
-Excelsior, 34 keys unisplit ortho with staggered pinkies &amp; 25mm trackball, RGB strip.
+Excelsior, 34 keys unisplit ortho with staggered pinkies &amp; 25mm trackball, optional RGB strip.
 
 # Description
 Excelsior is a heavily modified version of Endzone34 which has been blessed by takashicompany himself for the mod. [Endzone34](https://github.com/takashicompany/endzone34) was originally designed by takashicompany.
@@ -22,6 +22,8 @@ A List Of Mods Made To The Original PCB by [takashicompany](https://github.com/t
 
 -For diodes, I decided to try out the [BAV70](https://www.lcsc.com/product-detail/Switching-Diode_Jiangsu-Changjing-Electronics-Technology-Co-Ltd-BAV70_C68978.html) so that I solder less diodes since this pcb
 is not sponsored. I would only need to solder on 17 diodes instead of 34.
+
+-PCB has the option of RGB strip and the power 5v has the proper power level shift component soldered on. Initially I was gonna do individual 34 RGBs but too much work and I don't use RGBs that often.
 
 -QMK code is borrowed from aki27 bally and modified the matrix to fit my Excelsior. No suppport will be given since I just copy and paste.
 
