@@ -18,7 +18,7 @@ A List Of Mods Made To The Original PCB by [takashicompany](https://github.com/t
 
 -MCU area is now hidden and have an extrude of a [Starship logo](https://www.clipartmax.com/middle/m2i8Z5m2d3b1K9m2_star-trek-ship-icon-icon/)
 
--Excelsior is powered by [RP2040 Zero Raspberry Pi SuperMini Pico](https://www.aliexpress.com/item/1005007292787135.html?spm=a2g0o.order_list.order_list_main.136.6e251802pcq7qH)which you can get from AE and is soldered at the bottom of the pcb flush to the pcb.
+-Excelsior is powered by [RP2040 Zero Raspberry Pi SuperMini Pico](https://www.aliexpress.com/item/1005007292787135.html?spm=a2g0o.order_list.order_list_main.136.6e251802pcq7qH) which you can get from AE and is soldered at the bottom of the pcb flush to the pcb.
 
 -For diodes, I decided to try out the [BAV70](https://www.lcsc.com/product-detail/Switching-Diode_Jiangsu-Changjing-Electronics-Technology-Co-Ltd-BAV70_C68978.html) so that I solder less diodes since this pcb
 is not sponsored. I would only need to solder on 17 diodes instead of 34.
