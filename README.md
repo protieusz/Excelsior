@@ -35,6 +35,8 @@ is not sponsored. I would only need to solder on 17 diodes instead of 34.
 TBA
 
 # Renders
+![Screenshot 2024-09-13 at 2 24 26 PM](https://github.com/user-attachments/assets/a2007264-271c-4a14-ac74-341b7dcf1828)
+![Screenshot 2024-09-13 at 2 24 42 PM](https://github.com/user-attachments/assets/04c4a47d-887e-4d51-874d-d13eba0b1889)
 ![IMG_2937](https://github.com/user-attachments/assets/07123cbe-242b-4cc1-88cd-fa9f083ae0f5)
 ![IMG_2938](https://github.com/user-attachments/assets/d481795a-1436-44d7-8faf-d63a7ba593f2)
 ![IMG_2939](https://github.com/user-attachments/assets/b3f0c12c-785e-4b13-829f-8fc36d7fc1b2)
