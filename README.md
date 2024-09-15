@@ -4,7 +4,7 @@ Excelsior, 34 keys unisplit ortho with staggered pinkies &amp; 25mm trackball, o
 # Description
 Excelsior is a heavily modified version of Endzone34 which has been blessed by takashicompany himself for the mod. [Endzone34](https://github.com/takashicompany/endzone34) was originally designed by takashicompany.
 
-A List Of Mods Made To The Original PCB by [takashicompany](https://github.com/takashicompany/endzone34) & switch plate files by [is-watering](https://github.com/is-watering/endzone34-plate):
+A List Of Mods Made To The Original PCB by [takashicompany](https://github.com/takashicompany/endzone34):
 
 -PCB was created from scratch using the outline shape of Endzone34 using EasyEDA.
 
