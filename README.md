@@ -31,6 +31,10 @@ is not sponsored. I would only need to solder on 17 diodes instead of 34.
 
 -Use M2 brass hot inserts 3.2mm diameter and 4mm length for the M2 screws to secure the case. I forgot how long is my M2 screws are but they should be greater than 10mm so estimated around 14.6mm. Play around with and buy multiple M2 lenght screws.
 
+# Disclaimer
+The trackball user experience might differ depending on the types of 3D printer that you use or if the printers were calibrated properly. It might be a hit and miss. The experience can also be adjust on the QMK side on the CPI settings. No
+support will be given since the code was copy pasted from bally by aki27. As for the ball material and sizing plays a big role on the user experience. I personally prefer the BOM ball 25mm compared to the other different materials. Try it out and experiment it. As per usual print and use at your own risk. No support will be given. This design is MIT licensed so that means you can modify and do whatever you want with the design. If you do modify my design, please be kind to give me a shout out. PCB file is converted from EasyEDA so the convertion accuracy might not be good and KiCad DRC will scream but on EasyEDA DRC is fine. As the time of writing, the Excelsior is 100% working with no issues on my end.  Results might differ on your end.  A all in one Fusion file for the case that include the sketches is also included in this GitHub.  Thanks. 
+
 # Full Production Pictures
 TBA. Currently Sept 13, 2024, the PCBs are in transit from JLCPCB.
 Sept 22, 2024, PCBs have arrived and build was a success!!!
