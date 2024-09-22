@@ -33,6 +33,28 @@ is not sponsored. I would only need to solder on 17 diodes instead of 34.
 
 # Full Production Pictures
 TBA. Currently Sept 13, 2024, the PCBs are in transit from JLCPCB.
+Sept 22, 2024, PCBs have arrived and build was a success!!!
+
+![IMG_2945](https://github.com/user-attachments/assets/90c87916-1b7c-48a3-88ac-4444516e4ba4)
+![IMG_2946](https://github.com/user-attachments/assets/29a12786-0439-4b77-a01e-d6bf29c9c468)
+![IMG_3040](https://github.com/user-attachments/assets/7cc8045c-07e2-49c3-a278-e2ac2bf92c71)
+![IMG_3039](https://github.com/user-attachments/assets/43bb39dd-2d48-4386-8ad3-d90f81cdd6c1)
+![IMG_3042](https://github.com/user-attachments/assets/2ef618d4-8d3a-4fda-8fc6-ee7518fe6b7f)
+![IMG_3041](https://github.com/user-attachments/assets/e0f68a0f-8cfd-4ad1-a524-ec4a8aa93b89)
+![IMG_3043](https://github.com/user-attachments/assets/2e682fc7-ca58-4bd9-bf21-5ac0ac710dfc)
+![IMG_3044](https://github.com/user-attachments/assets/fe95afe3-3628-4a9b-967e-d890daa1ea8c)
+![IMG_3038](https://github.com/user-attachments/assets/ad0434ee-cc7f-4e46-aee8-67a68b9b11da)
+![IMG_3037](https://github.com/user-attachments/assets/1b8e517c-96c2-426f-8ce7-b3999c05a599)
+![IMG_3036](https://github.com/user-attachments/assets/631bf9c4-f1e2-47cd-836f-56f76dcd4846)
+![IMG_3035](https://github.com/user-attachments/assets/a4444226-b580-43a5-b79c-f613ac2b2e20)
+![IMG_3034](https://github.com/user-attachments/assets/c46cea5d-017a-4ca6-8068-9f1e96cfb20f)
+![IMG_3033](https://github.com/user-attachments/assets/c03c58f5-8179-4e79-8030-5d542f1f1dec)
+![IMG_3032](https://github.com/user-attachments/assets/eec40481-b0fa-48b9-b70d-59d3cac8c945)
+![IMG_3031](https://github.com/user-attachments/assets/9117226a-16b0-4de6-9f88-2ce7f4ce1575)
+![IMG_3030](https://github.com/user-attachments/assets/719194d2-910b-48a4-ba0c-622ca8dcd04b)
+![IMG_3029](https://github.com/user-attachments/assets/36820fc5-f099-4d20-bd4d-657f2a6150b7)
+![IMG_3028](https://github.com/user-attachments/assets/7f6716d9-c22a-438b-bc41-3be69b744308)
+![IMG_3027](https://github.com/user-attachments/assets/582a791c-5f80-4f2b-92d8-041fa56bc6d6)
 
 # Renders
 ![Screenshot 2024-09-13 at 2 24 26 PM](https://github.com/user-attachments/assets/a2007264-271c-4a14-ac74-341b7dcf1828)
